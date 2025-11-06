@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: rgba(12, 10, 10, 0.87);
-  background-color: #e9d9d9;
+  background-color: #9b1d1d;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -24,10 +24,10 @@ body {
   color: white;
 }
 div h4{
-    color: rgb(172, 172, 176);
+    color: rgb(240, 240, 243);
 }
 
 div h4:hover{
-    color: black;
+    color: rgb(97, 11, 208);
 }
 
