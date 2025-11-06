@@ -17,6 +17,17 @@
 body {
   margin: 0;
   display: flex;
-  min-width: 320px;
-  min-height: 100vh;
+  min-width:max-content;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
 }
+div h4{
+    color: rgb(172, 172, 176);
+}
+
+div h4:hover{
+    color: black;
+}
+
